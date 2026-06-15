@@ -10,8 +10,6 @@ Bu çalışma, çocukların görsel ve işitsel algılarını destekleyerek gele
 
 * **Çocuk Odaklı İnteraktif Tasarım:** Uygulama, çocukların ilgisini çekecek renk paletlerine ve düşük poligonlu (low-poly), optimize edilmiş deniz canlısı modellerine sahiptir.
 * **Sesli Rehber Desteği:** Canlılar sadece görsel olarak değil, çocukların gelişimine uygun özel seslendirmeler ve ses dublajları (voiceover) ile desteklenmiştir.
-* **Akademik & Proje Yönetimi Temeli:** Bu projenin geliştirilme sürecinde kazanılan yetkinlikler, TÜBİTAK 2209-A projesi yönetim tecrübesi ve TÜBİTAK 1001 araştırma projelerindeki metodolojiler referans alınarak kurgulanmıştır.
-
 ---
 
 ## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
